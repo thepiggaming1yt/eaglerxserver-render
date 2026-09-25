@@ -1,0 +1,77 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2026-09-15 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2026-09-15 23:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2026-09-15 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2026-09-15 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-09-15 23:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2026-09-15 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2026-09-15 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2026-09-15 23:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2026-09-15 23:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2026-09-15 23:14:52 +0000",
+      "forest": "2026-09-15 23:17:18 +0000",
+      "beaches": "2026-09-19 23:37:32 +0000",
+      "forest_hills": "2026-09-19 00:11:21 +0000",
+      "ice_mountains": "2026-09-15 23:14:35 +0000",
+      "taiga": "2026-09-15 23:11:04 +0000",
+      "taiga_hills": "2026-09-15 23:08:07 +0000",
+      "ocean": "2026-09-19 23:44:44 +0000",
+      "extreme_hills": "2026-09-15 23:12:05 +0000",
+      "river": "2026-09-19 00:10:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2026-09-19 23:41:59 +0000"
+    },
+    "done": true
+  }
+}

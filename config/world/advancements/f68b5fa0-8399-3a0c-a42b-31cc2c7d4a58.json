@@ -1,0 +1,26 @@
+{
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-09-12 20:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-09-12 20:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-09-12 20:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga_hills": "2026-09-12 20:46:23 +0000"
+    },
+    "done": false
+  }
+}

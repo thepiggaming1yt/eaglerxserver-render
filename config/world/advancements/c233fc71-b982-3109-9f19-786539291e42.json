@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ice_flats": "2026-09-21 13:12:56 +0000",
+      "forest": "2026-09-21 13:10:54 +0000",
+      "plains": "2026-09-21 13:20:56 +0000",
+      "taiga_hills": "2026-09-21 13:00:35 +0000"
+    },
+    "done": false
+  }
+}

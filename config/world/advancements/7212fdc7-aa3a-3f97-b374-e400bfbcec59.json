@@ -1,0 +1,17 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-09-21 15:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2026-09-21 11:38:44 +0000",
+      "taiga_hills": "2026-09-21 11:38:11 +0000",
+      "extreme_hills": "2026-09-21 15:30:46 +0000",
+      "river": "2026-09-21 15:30:27 +0000"
+    },
+    "done": false
+  }
+}
